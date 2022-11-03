@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Achieve</string>
+    <string name="daily_calorie_label">Today\'s active goal is %d</string>
+    <string name="daily_calorie_goal_description">You\'re just %d calories away from your daily goal.</string>
+    <string name="this_week_label">This week:</string>
+    <string name="goals_achieved_text">Goals achieved</string>
+    <string name="activity_history">Activity history ></string>
+</resources>

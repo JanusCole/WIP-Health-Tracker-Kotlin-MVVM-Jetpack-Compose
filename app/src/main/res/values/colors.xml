@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cvs_brand_red">#FFDC0968</color>
+    <color name="cvs_brand_purple">#FFD209B4</color>
+    <color name="cvs_brand_light_purple">#FFDB09D1</color>
+    <color name="start_purple_gradient">#FFD209AA</color>
+    <color name="end_purple_gradient">#FFD20969</color>
+
+    <color name="gear">#FFD00861</color>
+    <color name="dark_star">#FFC98004</color>
+    <color name="light_star">#FFFFB340</color>
+    <color name="points_text">#FFCF045F</color>
+    <color name="rewards_points_text">#FFC87D00</color>
+    <color name="light_points_text">#FFFFB340</color>
+    <color name="challenge_image">#FF5A2E6F</color>
+    <color name="light_gray_background">#FFEDEDED</color>
+    <color name="light_purple">#FFF4E4EE</color>
+
+</resources>
